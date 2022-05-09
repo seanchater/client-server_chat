@@ -1,0 +1,17 @@
+https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
+
+Maybe use this to send msgs??
+https://docs.oracle.com/javaee/6/api/javax/jms/ObjectMessage.html
+
+https://docs.oracle.com/javase/tutorial/essential/concurrency/threads.html
+
+Handling multiple clients:
+https://stackoverflow.com/questions/10131377/socket-programming-multiple-client-to-one-server
+
+ Good example on gui and threads
+https://web.stanford.edu/class/archive/cs/cs108/cs108.1082/handouts/33Sockets.pdf
+
+Broadcasting to multiple clients
+https://docs.oracle.com/javase/tutorial/networking/datagrams/broadcasting.html
+
+https://www.dreamincode.net/forums/topic/259777-a-simple-chat-program-with-clientserver-gui-optional/
